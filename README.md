@@ -33,8 +33,8 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
+
+ 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   <img width="12" />
@@ -69,10 +69,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
   <img width="12" />
@@ -99,12 +97,12 @@
 </div>
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=digantv&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=digantv&layout=compact&show_icons=true&theme=react" alt="digantv github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mahesh2766&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh2766&layout=compact&show_icons=true&theme=react" alt="digantv github-readme-stats" width="48%" />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/digantv/digantv/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mahesh2766/mahesh2766/output/snake.svg" alt="Snake animation" />
